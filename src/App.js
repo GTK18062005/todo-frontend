@@ -42,7 +42,7 @@ function App() {
   return (
     <div className="container">
       <div className="card">
-        <h1>🚀 Todo App</h1>
+        <h1> GTK 🚀 Todo App</h1>
 
         <div className="input-section">
           <input
